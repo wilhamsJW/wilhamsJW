@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Wilhams Júnior, 
+I have skills in different programming technologies
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
