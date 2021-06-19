@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Wilhams Júnior, 
+### Hi there 👋 My name's Wilhams Júnior, 
 I have skills in different programming technologies
 
 <!--
