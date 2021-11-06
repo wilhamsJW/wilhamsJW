@@ -1,5 +1,11 @@
 ### Hi there 👋 My name's Wilhams Júnior, 
-I have skills in different programming technologies
+Desenvolvedor Front JR com experiência em ReactJS, Redux e AngularJS
+Possuo experiência em outras tecnologias como NodeJS, PHP, MySQL, MonogoDB entre outras descritas nos
+projetos porém apenas de projetos de estudos ou acadêmicos.
+
+Sou um verdadeiro amante da progamação e acho algo fascinante e excitante o ato de programar.
+
+E aí? Vamos conversar ou tomar um açaí?
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
