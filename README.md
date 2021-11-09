@@ -1,5 +1,5 @@
-### Hi there 👋 My name's Wilhams Júnior, 
-Desenvolvedor Front JR com experiência em ReactJS, Redux e AngularJS
+### Olá, Tudo bem? 👋 Meu nome é Wilhams Júnior 
+Desenvolvedor Frontend JR com experiência em ReactJS, Redux e AngularJS
 Possuo experiência em outras tecnologias como NodeJS, PHP, MySQL, MonogoDB entre outras descritas nos
 projetos porém apenas de projetos de estudos ou acadêmicos.
 
