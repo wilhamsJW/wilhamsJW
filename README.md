@@ -5,7 +5,7 @@ projetos porém apenas de projetos de estudos ou acadêmicos.
 
 Sou um verdadeiro amante da progamação e acho algo fascinante e excitante o ato de programar.
 
-E aí? Vamos conversar ou tomar um açaí?
+E aí? Vamos conversar e tomar um café?
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
