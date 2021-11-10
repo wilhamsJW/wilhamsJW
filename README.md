@@ -7,7 +7,7 @@ Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o a
 
 E aí? Vamos conversar e tomar um café?
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhamsJunior&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhamsJW&layout=compact&langs_count=7&theme=radical"/>
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
