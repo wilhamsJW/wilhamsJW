@@ -3,9 +3,11 @@ Desenvolvedor Frontend JR com experiência em ReactJS, Redux e AngularJS
 Possuo experiência em outras tecnologias como NodeJS, PHP, MySQL, MonogoDB entre outras descritas nos
 projetos porém apenas de projetos de estudos ou acadêmicos.
 
-Sou um verdadeiro amante da progamação e acho algo fascinante e excitante o ato de programar.
+Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 
 E aí? Vamos conversar e tomar um café?
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilhamsJunior&layout=compact&langs_count=7&theme=radical"/>
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
