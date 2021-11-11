@@ -4,8 +4,8 @@
 - 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP, MySQL, SqLITe.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
-📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
-📫 Email: wilhams.dev@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
+- 📫 Email: wilhams.dev@gmail.com
 - ⚡ Curiosidades: Gosto de jogar futevôlei e praticar musculação
 - 🌱 E aí? Vamos conversar e tomar um café?
 
