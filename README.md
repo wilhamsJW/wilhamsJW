@@ -27,6 +27,9 @@ Também possuo experiência em outras tecnologias como PHP, MySQL, SqLITe.
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?wilhamsJW=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 <!--
 **wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
