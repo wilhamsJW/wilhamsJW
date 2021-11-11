@@ -1,11 +1,19 @@
 ### Olá, Tudo bem? 👋 Meu nome é Wilhams Júnior 
-Desenvolvedor Frontend JR com experiência em ReactJS, Redux e AngularJS
-Possuo experiência em outras tecnologias como NodeJS, PHP, MySQL, MonogoDB entre outras descritas nos
-projetos porém apenas de projetos de estudos ou acadêmicos.
+- 🔭 Atualmente trabalho como Desenvolvedor Frontend JR e irei me formar em Análises e Desenvolvimentos de Sistemas esse fim de ano de 2021
+- 
+- 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap e manipulações de arrays e obejtos são constantes
+- 
+- 👯  Estou dedicando minhas horas vagas á aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
+Também possuo experiência em outras tecnologias como PHP, MySQL, SqLITe.
 
-Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
+- 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 
-E aí? Vamos conversar e tomar um café?
+📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
+📫 Email: wilhams.dev@gmail.com
+
+- ⚡ Curiosidades: Gosto de jogar futevôlei e praticar musculação
+
+- 🌱 E aí? Vamos conversar e tomar um café?
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
