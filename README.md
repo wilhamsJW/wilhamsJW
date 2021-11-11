@@ -1,4 +1,4 @@
-### Olá, Tudo bem? 👋 Meu nome é Wilhams Júnior 
+### Olá, Tudo bem? 👋 
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend JR e irei me formar em Análises e Desenvolvimentos de Sistemas esse fim de ano de 2021
 - 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap e manipulações de arrays e obejtos são constantes
 - 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
