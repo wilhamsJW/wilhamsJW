@@ -7,7 +7,7 @@ Também possuo experiência em outras tecnologias como PHP, MySQL, SqLITe.
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
 - 📫 Email: wilhams.dev@gmail.com
 - 📫 Codepen: https://codepen.io/wilhamsjw
-- ⚡ Curiosidades: Imito o Silvio Santos e outros.
+- ⚡ Curiosidades: Imito o Silvio Santos 😄.
 - 🌱 E aí? Vamos conversar e tomar um café?
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
