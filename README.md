@@ -2,7 +2,7 @@
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend JR e irei me formar em Análises e Desenvolvimentos de Sistemas esse fim de ano de 2021
 - 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap e manipulações de arrays e obejtos são constantes
 - 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
-Também possuo experiência em outras tecnologias como PHP, MySQL, MongoDB.
+Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
 - 📫 Email: wilhams.dev@gmail.com
