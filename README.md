@@ -1,5 +1,5 @@
 ### Olá, Tudo bem? 👋 
-- 🔭 Atualmente trabalho como Desenvolvedor Frontend JR e irei me formar em Análises e Desenvolvimentos de Sistemas esse fim de ano de 2021
+- 🔭 Atualmente trabalho como Desenvolvedor Frontend JR e formado em Análises e Desenvolvimentos de Sistemas
 - 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap e manipulações de arrays e obejtos são constantes
 - 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
