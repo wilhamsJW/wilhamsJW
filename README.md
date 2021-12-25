@@ -1,6 +1,6 @@
 ### Olá, Tudo bem? 👋 
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend JR na @Mundiale e me formei em Análises e Desenvolvimentos de Sistemas
-- 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap e manipulações de arrays e obejtos são constantes
+- 🌱 No meu trabalho uso JavaScript puro, ReactJS, AngularJS, Redux, Css Grid, Bootstrap etc...
 - 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
