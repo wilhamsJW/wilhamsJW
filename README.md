@@ -1,6 +1,6 @@
 ### Olá, Tudo bem? 👋 
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend JR na @Mundiale e me formei em Análises e Desenvolvimentos de Sistemas
-- 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, ReactJS e NodeJS.
+- 👯  Estou dedicando minhas horas vagas em aprofundar conhecimentos em MongoDb, Express, Next.JS, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 - ⚡ Curiosidades: Imito o Silvio Santos 😄.
