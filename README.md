@@ -7,7 +7,7 @@ Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 🌱 E aí? Vamos tomar um café?
 
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
-- 📫 Email: wilhams.dev@gmail.com
+- 📫 Email: mjunior.wj@gmail.com
 - 📫 Codepen: https://codepen.io/wilhamsjw
 - 📫 PlayCode: https://playcode.io/my-projects
 
