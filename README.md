@@ -1,5 +1,5 @@
 ### Olá, Tudo bem? 👋 
-- 🔭 Atualmente trabalho como Desenvolvedor Frontend and backend JR na @Mundiale e me formei em Análises e Desenvolvimentos de Sistemas
+- 🔭 Atualmente trabalho como Desenvolvedor Frontend and backend na @Mundiale e me formei em Análises e Desenvolvimentos de Sistemas
 - 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
@@ -9,6 +9,7 @@ Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
 - 📫 Email: wilhams.dev@gmail.com
 - 📫 Codepen: https://codepen.io/wilhamsjw
+- 📫 PlayCode: https://playcode.io/my-projects
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
