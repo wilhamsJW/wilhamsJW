@@ -3,7 +3,7 @@
 - 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
-- ⚡ Curiosidades: Imito o Silvio Santos, Lula, Bolsonaro entre outros 😄.
+- ⚡ Interesses: Automação residencial, esportes, nutrição e investimentos.
 - 🌱 E aí? Vamos tomar um café?
 
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
