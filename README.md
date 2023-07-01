@@ -1,6 +1,6 @@
 ### Olá, Tudo bem? 👋 
 - 🔭 Atualmente trabalho como Desenvolvedor Frontend and backend na @Mundiale e me formei em Análises e Desenvolvimentos de Sistemas
-- 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS e NodeJS.
+- 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS, NestJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 - ⚡ Interesses: Automação residencial, esportes, nutrição e investimentos.
