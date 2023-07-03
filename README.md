@@ -11,7 +11,7 @@ Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 📫 Codepen: https://codepen.io/wilhamsjw
 - 📫 PlayCode: https://playcode.io/my-projects
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhamsJW&layout=compact&langs_count=7&theme=radical"/>
 
