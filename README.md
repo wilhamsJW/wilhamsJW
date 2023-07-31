@@ -3,7 +3,7 @@
 - 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS, NestJS e NodeJS.
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
-- ⚡ Interesses: Me interesso em projetos com os temas: Automação residencial, esportes, nutrição, investimentos... entre outros.
+- ⚡ Interesses: Me interesso em projetos com os temas: automação residencial com rasp, esportes, nutrição, investimentos... entre outros.
 - 🌱 E aí? Vamos tomar um café?
 
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
