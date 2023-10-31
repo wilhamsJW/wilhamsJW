@@ -5,7 +5,7 @@
 Também possuo experiência em outras tecnologias como PHP e MySQL.
 - 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
 - ⚡ Interesses: Me interesso em projetos com os temas: automação residencial com rasp, esportes, nutrição, investimentos... entre outros.
-- 🌱 E aí? Vamos tomar um café?
+- 🌱 E aí? Vamos conversar?
 
 - 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
 - 📫 Email: mjunior.wj@gmail.com
