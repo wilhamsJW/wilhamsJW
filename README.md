@@ -7,7 +7,7 @@ Também possuo experiência em outras tecnologias como PHP e MySQL.
 - ⚡ Interesses: Me interesso em projetos com os temas: automação residencial com rasp, esportes, nutrição, investimentos... entre outros.
 - 🌱 E aí? Vamos conversar?
 
-- 📫 Linkedin: https://www.linkedin.com/in/wilhams-meira-j%C3%BAnior-4112101b2/
+- 📫 Linkedin: https://www.linkedin.com/in/developer-front-back-wilhams/
 - 📫 Email: mjunior.wj@gmail.com
 - 📫 Codepen: https://codepen.io/wilhamsjw
 - 📫 PlayCode: https://playcode.io/my-projects
