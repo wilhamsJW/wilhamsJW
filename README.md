@@ -1,11 +1,11 @@
 ### Olá! Seja bem-vindo ao meu GitHub 👋
 
-Sou **Wilhams Junior**, engenheiro de software com foco em **Backend, Arquitetura de Sistemas e Cloud Computing**.
+Sou **Wilhams Junior**, desenvolvedor de software **Full Stack**.
 
-* 🔧 Desenvolvedor com experiência em **.NET / C#, Node.js e desenvolvimento de APIs escaláveis**
+* 🔧 Desenvolvedor com experiência em **.NET / C#, Node.js, React e desenvolvimento de APIs escaláveis**
 * ☁️ Forte interesse em **Cloud, DevOps e FinOps**, trabalhando com **containers, pipelines CI/CD e sistemas distribuídos**
 * 🧠 Focado em construir sistemas **escaláveis, resilientes e observáveis**, utilizando arquiteturas modernas como **microservices, event-driven architecture e clean architecture**
-* 🚀 Experiência com tecnologias modernas como **Next.js, React, TypeScript, PostgreSQL, RabbitMQ e mensageria**
+* 🚀 Experiência com tecnologias modernas como **React, Next.js, TypeScript, PostgreSQL, RabbitMQ e sistemas de mensageria**
 * 📈 Interesse especial em **plataformas financeiras, sistemas de investimento e APIs de alta performance**
 * 🔍 Busco constantemente evoluir em áreas como **arquitetura de software, Kubernetes, observabilidade, performance e engenharia de plataforma**
 * 🛠 Sempre estudando temas como **sistemas distribuídos, mensageria, cloud architecture, DevOps e otimização de custos em cloud (FinOps)**
@@ -27,6 +27,7 @@ Sou **Wilhams Junior**, engenheiro de software com foco em **Backend, Arquitetur
 * 🧪 Codepen: https://codepen.io/wilhamsjw
 * 💻 PlayCode: https://playcode.io/my-projects
 * 🌐 Portfólio: https://wilhamsjunior.vercel.app/
+
 
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
 
