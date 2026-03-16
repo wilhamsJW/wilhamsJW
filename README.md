@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo ao meu GitHub 👋
 
-Sou **Wilhams Junior**, desenvolvedor de software **Full Stack**.
+Sou **Wilhams Junior**, Desenvolvedor de Software **Full Stack**.
 
 * 🔧 Desenvolvedor com experiência em **.NET / C#, Node.js, React e desenvolvimento de APIs escaláveis**
 * ☁️ Forte interesse em **Cloud, DevOps e FinOps**, trabalhando com **containers, pipelines CI/CD e sistemas distribuídos**
