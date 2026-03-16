@@ -1,17 +1,33 @@
-### Olá, Tudo bem? Bom ver você aqui 👋 
+### Olá! Seja bem-vindo ao meu GitHub 👋
 
-- 🔭 Desenvolvedor Front end and back end formado em Análises e Desenvolvimentos de Sistemas
-- 👯  Dedico meu tempo em aprofundar conhecimentos em MongoDb, Express, Next.JS, React Query, ReactJS, NestJS e NodeJS.
-Também possuo experiência em outras tecnologias como PHP e MySQL.
-- 😄 Sou um verdadeiro amante da progamação e acho algo fascinante e empolgante o ato de programar.
-- ⚡ Interesses: Me interesso em projetos com os temas: automação residencial com rasp, esportes, nutrição, investimentos... entre outros.
-- 🌱 E aí? Vamos conversar?
+Sou **Wilhams Junior**, engenheiro de software com foco em **Backend, Arquitetura de Sistemas e Cloud Computing**.
 
-- 📫 Linkedin: https://www.linkedin.com/in/developer-front-back-wilhams/
-- 📫 Email: mjunior.wj@gmail.com
-- 📫 Codepen: https://codepen.io/wilhamsjw
-- 📫 PlayCode: https://playcode.io/my-projects
-- 📫 Meu Site: https://wilhamsjunior.vercel.app/
+* 🔧 Desenvolvedor com experiência em **.NET / C#, Node.js e desenvolvimento de APIs escaláveis**
+* ☁️ Forte interesse em **Cloud, DevOps e FinOps**, trabalhando com **containers, pipelines CI/CD e sistemas distribuídos**
+* 🧠 Focado em construir sistemas **escaláveis, resilientes e observáveis**, utilizando arquiteturas modernas como **microservices, event-driven architecture e clean architecture**
+* 🚀 Experiência com tecnologias modernas como **Next.js, React, TypeScript, PostgreSQL, RabbitMQ e mensageria**
+* 📈 Interesse especial em **plataformas financeiras, sistemas de investimento e APIs de alta performance**
+* 🔍 Busco constantemente evoluir em áreas como **arquitetura de software, Kubernetes, observabilidade, performance e engenharia de plataforma**
+* 🛠 Sempre estudando temas como **sistemas distribuídos, mensageria, cloud architecture, DevOps e otimização de custos em cloud (FinOps)**
+
+### Áreas de Interesse
+
+* Arquitetura de Sistemas
+* Cloud Computing
+* DevOps e CI/CD
+* Sistemas Distribuídos
+* Observabilidade e Performance
+* FinOps e otimização de infraestrutura
+* Engenharia de sistemas financeiros
+
+### Vamos nos conectar
+
+* 💼 LinkedIn: https://www.linkedin.com/in/developer-front-back-wilhams/
+* 📫 Email: [mjunior.wj@gmail.com](mailto:mjunior.wj@gmail.com)
+* 🧪 Codepen: https://codepen.io/wilhamsjw
+* 💻 PlayCode: https://playcode.io/my-projects
+* 🌐 Portfólio: https://wilhamsjunior.vercel.app/
+
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhamsJW&layout=compact&langs_count=7&theme=radical"/>
