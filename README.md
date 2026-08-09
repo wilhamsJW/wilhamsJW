@@ -19,11 +19,12 @@ Sou **Wilhams Junior**, Desenvolvedor de Software **Full Stack**.
 * Observabilidade e Performance
 * FinOps e otimização de infraestrutura
 * Engenharia de sistemas financeiros
+* Iot
 
 ### Vamos nos conectar
 
 * 💼 LinkedIn: https://www.linkedin.com/in/developer-front-back-wilhams/
-* 📫 Email: [mjunior.wj@gmail.com](mailto:mjunior.wj@gmail.com)
+* 📫 [wilhams.code@gmail.com](mailto:wilhams.code@gmail.com)
 * 🧪 Codepen: https://codepen.io/wilhamsjw
 * 💻 PlayCode: https://playcode.io/my-projects
 * 🌐 Portfólio: https://wilhamsjunior.vercel.app/
