@@ -1,66 +1,54 @@
-### Olá! Seja bem-vindo ao meu GitHub 👋
+<h1 align="center">Olá, eu sou Wilhams Junior 👋</h1>
+<p align="center">
+  <b>Software Engineer | .NET & Enterprise Architecture Specialist</b><br>
+  Construindo sistemas distribuídos, resilientes e de alta performance para o ecossistema corporativo e financeiro.
+</p>
 
-Sou **Wilhams Junior**, Desenvolvedor de Software **Full Stack**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-front-back-wilhams/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wilhams.code@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wilhamsjunior.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://codepen.io/wilhamsJW"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+</p>
 
-* 🔧 Desenvolvedor com experiência em **.NET / C#, Node.js, React e desenvolvimento de APIs escaláveis**
-* ☁️ Forte interesse em **Cloud, DevOps e FinOps**, trabalhando com **containers, pipelines CI/CD e sistemas distribuídos**
-* 🧠 Focado em construir sistemas **escaláveis, resilientes e observáveis**, utilizando arquiteturas modernas como **microservices, event-driven architecture e clean architecture**
-* 🚀 Experiência com tecnologias modernas como **React, Next.js, TypeScript, PostgreSQL, RabbitMQ e sistemas de mensageria**
-* 📈 Interesse especial em **plataformas financeiras, sistemas de investimento e APIs de alta performance**
-* 🔍 Busco constantemente evoluir em áreas como **arquitetura de software, Kubernetes, observabilidade, performance e engenharia de plataforma**
-* 🛠 Sempre estudando temas como **sistemas distribuídos, mensageria, cloud architecture, DevOps e otimização de custos em cloud (FinOps)**
+---
 
-### Áreas de Interesse
+### 💻 Sobre Mim
 
-* Arquitetura de Sistemas
-* Cloud Computing
-* DevOps e CI/CD
-* Sistemas Distribuídos
-* Observabilidade e Performance
-* FinOps e otimização de infraestrutura
-* Engenharia de sistemas financeiros
-* Iot
+Desenvolvedor de Software com forte ênfase em **Backend, Arquitetura de Software e Cloud-Native**. Especialista em projetar e implementar APIs escaláveis e microsserviços utilizando padrões avançados de projeto. Minha atuação foca em transformar regras de negócio complexas em código limpo, testável e desacoplado, aplicando rigorosamente conceitos de **Domain-Driven Design (DDD), Clean Architecture, CQRS e Event-Driven Architecture (EDA)**.
 
-### Vamos nos conectar
+---
 
-* 💼 LinkedIn: https://www.linkedin.com/in/developer-front-back-wilhams/
-* 📫 [wilhams.code@gmail.com](mailto:wilhams.code@gmail.com)
-* 🧪 Codepen: https://codepen.io/wilhamsjw
-* 💻 PlayCode: https://playcode.io/my-projects
-* 🌐 Portfólio: https://wilhamsjunior.vercel.app/
+### 🛠️ Stack Tecnológica & Core Competencies
 
+* **Backend & Core:** C#, .NET / .NET Core, Node.js, TypeScript, RESTful APIs, Entity Framework Core, Dapper.
+* **Arquitetura & Design Patterns:** Domain-Driven Design (DDD), Clean Architecture, CQRS, Unit of Work, Repository Pattern, Dependency Injection, Design Patterns GoF.
+* **Mensageria & Sistemas Distribuídos:** RabbitMQ, MediatR, Event-Driven Architecture (EDA), Pub/Sub.
+* **Data Persistence & Management:** SQL Server, PostgreSQL, Redis, MongoDB.
+* **Cloud, DevOps & FinOps:** AWS (Cloud Infrastructure), Docker, Kubernetes, Pipelines CI/CD, Otimização de Custos em Cloud.
+* **Frontend Ecosystem (Full-Stack Capability):** React, Next.js, Redux.
 
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+---
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhamsJW&layout=compact&langs_count=7&theme=radical"/>
+### 🏛️ Áreas de Foco e Especialização
 
-<!-- Ícones de Html, Css, JS e react -->
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-          <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-           <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-       <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+* **Design de Sistemas & Arquitetura:** Modelagem de domínios complexos, desacoplamento de microsserviços e garantias transacionais.
+* **Resiliência e Observabilidade:** Estratégias de tratamento de falhas, logging estruturado e rastreabilidade distribuída.
+* **Fintech & High-Performance Systems:** Arquiteturas voltadas para consistência de dados, concorrência e processamento assíncrono de alto volume.
+* **Cloud & Engenharia de Plataforma:** Escalabilidade horizontal, conteinerização e práticas de FinOps.
 
-  
+---
 
-<!--
-**wilhamsJW/wilhamsJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 Estatísticas do GitHub
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilhamsJW&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilhamsJW&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Vamos nos conectar?
+Estou sempre aberto a trocar ideias sobre arquitetura de software, desafios de engenharia e oportunidades em projetos desafiadores. Sinta-se à vontade para entrar em contato!
