@@ -25,7 +25,7 @@ Desenvolvedor de Software com forte ênfase em **Backend, Arquitetura de Softwar
 * **Arquitetura & Design Patterns:** Domain-Driven Design (DDD), Clean Architecture, CQRS, Unit of Work, Repository Pattern, Dependency Injection, Design Patterns GoF.
 * **Mensageria & Sistemas Distribuídos:** RabbitMQ, MediatR, Event-Driven Architecture (EDA), Pub/Sub.
 * **Data Persistence & Management:** SQL Server, PostgreSQL, Redis, MongoDB.
-* **Cloud, DevOps & FinOps:** AWS (Cloud Infrastructure), Docker, Kubernetes, Pipelines CI/CD, Otimização de Custos em Cloud.
+* **Cloud, DevOps & FinOps:** AWS (Cloud Infrastructure), Docker, Kubernetes e Pipelines CI/CD.
 * **Frontend Ecosystem (Full-Stack Capability):** React, Next.js, Redux.
 
 ---
@@ -35,7 +35,6 @@ Desenvolvedor de Software com forte ênfase em **Backend, Arquitetura de Softwar
 * **Design de Sistemas & Arquitetura:** Modelagem de domínios complexos, desacoplamento de microsserviços e garantias transacionais.
 * **Resiliência e Observabilidade:** Estratégias de tratamento de falhas, logging estruturado e rastreabilidade distribuída.
 * **Fintech & High-Performance Systems:** Arquiteturas voltadas para consistência de dados, concorrência e processamento assíncrono de alto volume.
-* **Cloud & Engenharia de Plataforma:** Escalabilidade horizontal, conteinerização e práticas de FinOps.
 
 ---
 
